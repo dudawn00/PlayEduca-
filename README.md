@@ -1,0 +1,2 @@
+# PlayEduca-
+Uma plataforma educativa!
